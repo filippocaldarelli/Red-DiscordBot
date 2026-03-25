@@ -1,2 +1,5 @@
+[build]
+installCommand = "pip install ."
+
 [scripts]
 start = "python -m redbot --token $DISCORD_TOKEN"
