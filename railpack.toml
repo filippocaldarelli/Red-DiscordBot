@@ -1,0 +1,2 @@
+[scripts]
+start = "python -m redbot --token $DISCORD_TOKEN"
